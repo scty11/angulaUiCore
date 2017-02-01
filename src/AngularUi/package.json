@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "asp.net",
+	"private": true,
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "browser-sync": "2.18.6"
+  }
+}
